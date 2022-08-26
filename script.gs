@@ -13,7 +13,7 @@ function updateVideo() {
   }).items[0].statistics.viewCount;
 
 
-  videoSnippet['title'] = `This video has been watched as much as ${viewCount}`;
+  videoSnippet['title'] = `This Video Has ${viewCount} Views`;
   delete videoSnippet.thumbnails;
 
   //update video
