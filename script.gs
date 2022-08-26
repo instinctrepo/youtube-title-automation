@@ -1,5 +1,5 @@
 function updateVideo() {
-  const videoId = 'j8smPfMoc6g'
+  const videoId = 'BxV14h0kFs0'
 
   //get video detail
   const video = YouTube.Videos.list('snippet', {
