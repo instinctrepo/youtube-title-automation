@@ -13,7 +13,7 @@ function updateVideo() {
   }).items[0].statistics.viewCount;
 
 
-  videoSnippet['title'] = `Video ini ditonton sebanyak ${viewCount}`;
+  videoSnippet['title'] = `This video has been watched as much as ${viewCount}`;
   delete videoSnippet.thumbnails;
 
   //update video
