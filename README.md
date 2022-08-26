@@ -1,4 +1,4 @@
-# youtube-title-automation
+# How to use this?
 
 1. Open https://www.google.com/script/start/
 2. Start scripting
